@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1375724140 source:c:\users\adriano  de sousa\desktop\projetos_c\numero_perfeito\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\adriano  de sousa\desktop\projetos_c\numero_perfeito\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1427340149 source:c:\users\adriano  de sousa\desktop\projetos_c\numero_perfeito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
+1375724140 source:c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\funcoes_diversas\numero_perfeito\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\funcoes_diversas\numero_perfeito\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1427340150 source:c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\funcoes_diversas\numero_perfeito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
